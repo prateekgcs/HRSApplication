@@ -14,7 +14,7 @@ Create Procedure [dbo].[spUpdateSkill]
 @SkillName varchar(50) ,
 @SkillDescription varchar(100) ,
 @CategoryId int  
-@CreatedBy int  ,
+@CreatedBy int,
 @CreatedDate datetime ,
 @LastModifiedBy int ,
 @LastModifiedDate datetime  
