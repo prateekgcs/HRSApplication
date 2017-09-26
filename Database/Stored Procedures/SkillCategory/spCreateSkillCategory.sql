@@ -1,12 +1,17 @@
 USE [HRSManagement]
 GO
 
-/****** Object:  StoredProcedure [dbo].[InsertEmployee]    Script Date: 26-09-2017 15:02:25 ******/
+/****** Object:  StoredProcedure [dbo].[spCreateSkillCategory]    Script Date: 26-09-2017 08:14:54 PM ******/
+DROP PROCEDURE [dbo].[spCreateSkillCategory]
+GO
+
+/****** Object:  StoredProcedure [dbo].[spCreateSkillCategory]    Script Date: 26-09-2017 08:14:54 PM ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
 
 
 Create Procedure [dbo].[spCreateSkillCategory]
@@ -21,6 +26,8 @@ Create Procedure [dbo].[spCreateSkillCategory]
 As
 BEGIN
 	
-	Insert into Category values(@CategoryId, @CategoryName, @CategoryDescription, @CreatedBy , @CreatedDate , @LastModifiedBy , @LastModifiedDate)
+	Insert into Category values(@CategoryName, @CategoryDescription, @CreatedBy , @CreatedDate , @LastModifiedBy , @LastModifiedDate)
 	END
-	 GO
+
+GO
+

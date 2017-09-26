@@ -1,7 +1,7 @@
 USE [HRSManagement]
 GO
 
-/****** Object:  StoredProcedure [dbo].[spCreateEmployee]    Script Date: 26-09-2017 15:02:25 ******/
+/****** Object:  StoredProcedure [dbo].[spCreateEmployee]    Script Date: 26-09-2017 08:12:50 PM ******/
 SET ANSI_NULLS ON
 GO
 
@@ -9,7 +9,8 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
-Create Procedure [dbo].[spCreateEmployee]
+
+CREATE Procedure [dbo].[spCreateEmployee]
 @EmployeeId int,
 @FirstName varchar(50),
 @MiddleName varchar(50),
@@ -40,7 +41,7 @@ Create Procedure [dbo].[spCreateEmployee]
 As
 BEGIN
 	
-	Insert into Employee values( @EmployeeId,
+	Insert into Employee values( 
 @FirstName,
 @MiddleName,
 @LastName,
@@ -69,6 +70,7 @@ BEGIN
 )
 	 
 END
+
 
 
 GO
