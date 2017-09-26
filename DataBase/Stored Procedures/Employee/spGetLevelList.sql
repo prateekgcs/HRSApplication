@@ -11,13 +11,13 @@ GO
 
 Create Procedure [dbo].[spGetLevelList]
 @LevelId Int output,
-@LevelDescription Varchar(35) output,
+@LevelDescription Varchar(35) output
 
 As
 BEGIN
 	
 
-	SELECT @LevelId=LevelId, @LevelDescription = LevelDescription 
+	SELECT @LevelId=LevelId, @LevelDescription = LevelDescription from Level
 END
 
 

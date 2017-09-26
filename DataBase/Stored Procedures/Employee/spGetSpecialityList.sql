@@ -17,7 +17,7 @@ As
 BEGIN
 	
 
-	SELECT @SpecialityId=SpecialityId, @SpecialityName = SpecialityName from Level
+	SELECT @SpecialityId=SpecialityId, @SpecialityName = SpecialityName from Speciality
 END
 
 
