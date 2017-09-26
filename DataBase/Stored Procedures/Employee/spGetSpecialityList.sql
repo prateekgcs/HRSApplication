@@ -11,17 +11,13 @@ GO
 
 Create Procedure [dbo].[spGetSpecialityList]
 @SpecialityId Int output,
-@SpecialityName Varchar(35) output,
-@CreatedBy Int output,
-@CreatedDate DateTime output,
-@LastModifiedBy Int output,
-@LastModifiedDate Datetime output
+@SpecialityName Varchar(35) output
 
 As
 BEGIN
 	
 
-	SELECT @SpecialityId=SpecialityId, @SpecialityName = SpecialityName ,@CreatedBy = CreatedBy, @CreatedDate = CreatedDate, @LastModifiedBy = LastModifiedBy , @LastModifiedDate = LastModifiedDate from Level
+	SELECT @SpecialityId=SpecialityId, @SpecialityName = SpecialityName from Level
 END
 
 

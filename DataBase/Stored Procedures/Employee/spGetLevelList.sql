@@ -12,16 +12,12 @@ GO
 Create Procedure [dbo].[spGetLevelList]
 @LevelId Int output,
 @LevelDescription Varchar(35) output,
-@CreatedBy Int output,
-@CreatedDate DateTime output,
-@LastModifiedBy Int output,
-@LastModifiedDate Datetime output
 
 As
 BEGIN
 	
 
-	SELECT @LevelId=LevelId, @LevelDescription = LevelDescription ,@CreatedBy = CreatedBy, @CreatedDate = CreatedDate, @LastModifiedBy = LastModifiedBy , @LastModifiedDate = LastModifiedDate from Level
+	SELECT @LevelId=LevelId, @LevelDescription = LevelDescription 
 END
 
 
