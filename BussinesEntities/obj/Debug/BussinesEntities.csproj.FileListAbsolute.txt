@@ -1,0 +1,4 @@
+E:\Project\HRSApplication\BussinesEntities\bin\Debug\BussinesEntities.dll
+E:\Project\HRSApplication\BussinesEntities\bin\Debug\BussinesEntities.pdb
+E:\Project\HRSApplication\BussinesEntities\obj\Debug\BussinesEntities.dll
+E:\Project\HRSApplication\BussinesEntities\obj\Debug\BussinesEntities.pdb

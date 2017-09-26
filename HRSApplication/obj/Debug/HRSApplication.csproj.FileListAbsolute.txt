@@ -1,0 +1,8 @@
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\bin\Debug\HRSApplication.exe
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\bin\Debug\HRSApplication.pdb
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\obj\Debug\HRSApplication.csprojResolveAssemblyReference.cache
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\obj\Debug\HRSApplication.Form1.resources
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\obj\Debug\HRSApplication.Properties.Resources.resources
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\obj\Debug\HRSApplication.csproj.GenerateResource.Cache
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\obj\Debug\HRSApplication.exe
+C:\Users\PRATEEK\Documents\Visual Studio 2015\Projects\HRSApplication\HRSApplication\obj\Debug\HRSApplication.pdb
