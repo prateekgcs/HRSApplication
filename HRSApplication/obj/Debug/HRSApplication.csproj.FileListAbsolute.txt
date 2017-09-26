@@ -1,0 +1,4 @@
+E:\Project\HRSApplication\HRSApplication\bin\Debug\HRSApplication.dll
+E:\Project\HRSApplication\HRSApplication\bin\Debug\HRSApplication.pdb
+E:\Project\HRSApplication\HRSApplication\obj\Debug\HRSApplication.dll
+E:\Project\HRSApplication\HRSApplication\obj\Debug\HRSApplication.pdb

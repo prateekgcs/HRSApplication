@@ -1,0 +1,5 @@
+E:\Project\HRSApplication\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Project\HRSApplication\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Project\HRSApplication\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Project\HRSApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Project\HRSApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb
