@@ -2,8 +2,8 @@ USE [HRSManagement]
 GO
 
 /****** Object:  StoredProcedure [dbo].[spUpdateSkillCategory]    Script Date: 26-09-2017 08:15:50 PM ******/
-DROP PROCEDURE [dbo].[spUpdateSkillCategory]
-GO
+--DROP PROCEDURE [dbo].[spUpdateSkillCategory]
+--GO
 
 /****** Object:  StoredProcedure [dbo].[spUpdateSkillCategory]    Script Date: 26-09-2017 08:15:50 PM ******/
 SET ANSI_NULLS ON

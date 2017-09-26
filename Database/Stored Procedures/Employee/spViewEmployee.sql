@@ -2,8 +2,8 @@ USE [HRSManagement]
 GO
 
 /****** Object:  StoredProcedure [dbo].[spViewEmployee]    Script Date: 26-09-2017 08:16:12 PM ******/
-DROP PROCEDURE [dbo].[spViewEmployee]
-GO
+--DROP PROCEDURE [dbo].[spViewEmployee]
+--GO
 
 /****** Object:  StoredProcedure [dbo].[spViewEmployee]    Script Date: 26-09-2017 08:16:12 PM ******/
 SET ANSI_NULLS ON

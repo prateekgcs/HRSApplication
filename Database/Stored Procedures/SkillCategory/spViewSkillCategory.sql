@@ -2,8 +2,8 @@ USE [HRSManagement]
 GO
 
 /****** Object:  StoredProcedure [dbo].[spViewSkillCategory]    Script Date: 26-09-2017 08:16:45 PM ******/
-DROP PROCEDURE [dbo].[spViewSkillCategory]
-GO
+--DROP PROCEDURE [dbo].[spViewSkillCategory]
+--GO
 
 /****** Object:  StoredProcedure [dbo].[spViewSkillCategory]    Script Date: 26-09-2017 08:16:45 PM ******/
 SET ANSI_NULLS ON
