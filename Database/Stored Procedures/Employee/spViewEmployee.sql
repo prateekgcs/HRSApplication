@@ -1,12 +1,17 @@
 USE [HRSManagement]
 GO
 
-/****** Object:  StoredProcedure [dbo].[spViewEmployee]    Script Date: 26-09-2017 15:02:45 ******/
+/****** Object:  StoredProcedure [dbo].[spViewEmployee]    Script Date: 26-09-2017 08:16:12 PM ******/
+--DROP PROCEDURE [dbo].[spViewEmployee]
+--GO
+
+/****** Object:  StoredProcedure [dbo].[spViewEmployee]    Script Date: 26-09-2017 08:16:12 PM ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
 
 
 Create Procedure [dbo].[spViewEmployee]
@@ -30,7 +35,7 @@ Create Procedure [dbo].[spViewEmployee]
 @Country Varchar(100) output,
 @ProjectProfile Varchar(100) output,
 @SkillProfile Varchar(100) output,
-@EduBackGround Varchar(500) output,
+@EducBackGround Varchar(500) output,
 @Recognitions Varchar(500) output,
 @CreatedBy Int,
 @CreatedDate DateTime,
@@ -60,7 +65,7 @@ BEGIN
 @Country=Country ,
 @ProjectProfile=ProjectProfile ,
 @SkillProfile=SkillProfile ,
-@EduBackGround=EduBackGround ,
+@EducBackGround=EducBackGround ,
 @Recognitions=Recognitions,
 @CreatedBy=CreatedBy,
 @CreatedDate=CreatedDate ,
@@ -69,6 +74,7 @@ BEGIN
 
 	 from Employee where EmployeeId=@EmployeeId
 END
+
 
 
 GO

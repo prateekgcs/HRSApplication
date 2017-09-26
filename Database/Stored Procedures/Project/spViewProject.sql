@@ -1,12 +1,17 @@
 USE [HRSManagement]
 GO
 
-/****** Object:  StoredProcedure [dbo].[SelectEmployee]    Script Date: 26-09-2017 15:02:45 ******/
+/****** Object:  StoredProcedure [dbo].[spViewProject]    Script Date: 26-09-2017 08:16:29 PM ******/
+--DROP PROCEDURE [dbo].[spViewProject]
+--GO
+
+/****** Object:  StoredProcedure [dbo].[spViewProject]    Script Date: 26-09-2017 08:16:29 PM ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
 
 
 Create Procedure [dbo].[spViewProject]
@@ -40,4 +45,6 @@ Client= @Client,
 
 
  END
- GO
+
+GO
+

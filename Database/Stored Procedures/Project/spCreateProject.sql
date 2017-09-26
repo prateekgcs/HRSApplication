@@ -1,12 +1,13 @@
 USE [HRSManagement]
 GO
 
-/****** Object:  StoredProcedure [dbo].[InsertEmployee]    Script Date: 26-09-2017 15:02:25 ******/
+/****** Object:  StoredProcedure [dbo].[spCreateProject]    Script Date: 26-09-2017 08:13:15 PM ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
 
 
 Create Procedure [dbo].[spCreateProject]
@@ -24,7 +25,9 @@ Create Procedure [dbo].[spCreateProject]
 
 AS
 BEGIN
-insert into Project values(@ProjId, @ProjId, @Description, @Client, @StartDate, @EndDate, @CreatedBy, @CreatedDate, @LastModifiedBy, @LastModifiedDate)
+insert into Project values(@ProjName, @Description, @Client, @StartDate, @EndDate, @CreatedBy, @CreatedDate, @LastModifiedBy, @LastModifiedDate)
 
 END
+
 GO
+

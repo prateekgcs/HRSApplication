@@ -22,7 +22,7 @@ Create Procedure [dbo].[spCreateSkill]
 As
 BEGIN
 	
-	Insert into Skill values(@SkillId,@SkillName, @SkillDescription,@CategoryId,@CreatedBy,@CreatedDate ,@LastModifiedBy ,@LastModifiedDate  )
+	Insert into Skill values(@SkillName, @SkillDescription,@CategoryId,@CreatedBy,@CreatedDate ,@LastModifiedBy ,@LastModifiedDate  )
 	 
 END
 
