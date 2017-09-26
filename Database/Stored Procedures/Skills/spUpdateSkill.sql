@@ -13,7 +13,7 @@ Create Procedure [dbo].[spUpdateSkill]
 @SkillId int,
 @SkillName varchar(50) ,
 @SkillDescription varchar(100) ,
-@CategoryId int  
+@CategoryId int, 
 @CreatedBy int,
 @CreatedDate datetime ,
 @LastModifiedBy int ,
