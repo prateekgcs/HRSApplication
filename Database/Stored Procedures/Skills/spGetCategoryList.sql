@@ -11,25 +11,13 @@ GO
 
 Create Procedure [dbo].[spGetCategoryList]
 @SkillId int output,
-@SkillName varchar(50) output,
-@SkillDescription varchar(100) output,
-@CategoryId int output,
-@CreatedBy int output,
-@CreatedDate datetime  output,
-@LastModifiedBy int output,
-@LastModifiedDate datetime output
+@SkillName varchar(50) output
 
-As
+As 
 BEGIN
-
 select @SkillId= SkillId,
-@SkillName= SkillName,
-@SkillDescription= SkillDescription,
-@CategoryId= CategoryId,
-@CreatedBy= CreatedBy,
-@CreatedDate= CreatedDate,
-@LastModifiedBy= LastModifiedBy,
-@LastModifiedDate= LastModifiedDate
+@SkillName= SkillName
+
 
 From Skill
 END
