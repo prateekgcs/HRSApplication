@@ -11,14 +11,14 @@ GO
 
 Create Procedure [dbo].[spUpdateProject]
 @ProjId int,
-@ProjName varchar(50),
-@Description varchar(100),
-@Client varchar(50),
-@StartDate datetime,
-@EndDate datetime,
-@CreatedBy int,
-@CreatedDate datetime,
-@LastModifiedBy int,
+@ProjName varchar(50) output,
+@Description varchar(100) output,
+@Client varchar(50) output,
+@StartDate datetime output,
+@EndDate datetime output,
+@CreatedBy int output,
+@CreatedDate datetime output,
+@LastModifiedBy int output,
 @LastModifiedDate datetime
 
 

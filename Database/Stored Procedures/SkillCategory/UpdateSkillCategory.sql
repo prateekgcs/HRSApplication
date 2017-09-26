@@ -11,8 +11,6 @@ GO
 
 Create Procedure [dbo].[spUpdateSkillCategory]
 @CategoryId int,
-@CategoryName varchar(50),
-@CategoryDescription varchar(100),
 @CreatedBy int,
 @CreatedDate datetime,
 @LastModifiedBy int,
