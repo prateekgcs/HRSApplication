@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\bin\Debug\Common.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\bin\Debug\Common.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\obj\Debug\Common.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\obj\Debug\Common.pdb
+<<<<<<< HEAD:HRSManagement/HRSManagement/Common/obj/Debug/Common.csproj.FileListAbsolute.txt
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Common\bin\Debug\Common.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Common\bin\Debug\Common.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Common\obj\Debug\Common.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Common\obj\Debug\Common.pdb
+=======
+C:\Users\hp\Documents\Visual Studio 2015\Projects\HRSManagement\Common\bin\Debug\Common.dll.config
+>>>>>>> e0a8d16b2e0cbc36bb31069b2623cf10be45cd9a:HRSManagement/Common/obj/Debug/Common.csproj.FileListAbsolute.txt
