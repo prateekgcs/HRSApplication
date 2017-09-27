@@ -3,3 +3,8 @@ c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessEntities
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.dll
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.pdb

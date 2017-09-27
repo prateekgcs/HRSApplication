@@ -7,3 +7,12 @@ c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\DALayer\bin\Debu
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\DALayer\bin\Debug\Common.dll
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\DALayer\bin\Debug\BusinessEntities.pdb
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\DALayer\bin\Debug\Common.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\bin\Debug\DALayer.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\bin\Debug\DALayer.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\bin\Debug\BusinessEntities.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\bin\Debug\Common.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\bin\Debug\BusinessEntities.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\bin\Debug\Common.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\obj\Debug\DALayer.csprojResolveAssemblyReference.cache
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\obj\Debug\DALayer.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\DALayer\obj\Debug\DALayer.pdb

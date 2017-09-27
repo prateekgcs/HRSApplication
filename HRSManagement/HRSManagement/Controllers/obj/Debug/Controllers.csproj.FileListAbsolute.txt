@@ -9,3 +9,14 @@ c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\BusinessLayer.pdb
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\Common.pdb
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\Controllers.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\Controllers.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\BusinessEntities.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\BusinessLayer.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\Common.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\BusinessEntities.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\BusinessLayer.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\bin\Debug\Common.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\obj\Debug\Controllers.dll
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Controllers\obj\Debug\Controllers.pdb

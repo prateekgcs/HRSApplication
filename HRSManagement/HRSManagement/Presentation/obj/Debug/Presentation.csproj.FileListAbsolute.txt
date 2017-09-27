@@ -7,3 +7,12 @@ c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Presentation\obj
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Presentation\obj\Debug\Presentation.exe
 c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Presentation\obj\Debug\Presentation.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\bin\Debug\Presentation.exe.config
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\bin\Debug\Presentation.exe
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\bin\Debug\Presentation.pdb
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\obj\Debug\Presentation.Form1.resources
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\obj\Debug\Presentation.exe
+D:\HRSMgmt\HRSApplication\HRSManagement\HRSManagement\Presentation\obj\Debug\Presentation.pdb
