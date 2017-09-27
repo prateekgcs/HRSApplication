@@ -1,5 +1,0 @@
-E:\Project\HRSApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll
-E:\Project\HRSApplication\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-E:\Project\HRSApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
-E:\Project\HRSApplication\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-E:\Project\HRSApplication\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

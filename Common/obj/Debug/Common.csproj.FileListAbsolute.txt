@@ -1,5 +1,0 @@
-E:\Project\HRSApplication\Common\bin\Debug\Common.dll
-E:\Project\HRSApplication\Common\bin\Debug\Common.pdb
-E:\Project\HRSApplication\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
-E:\Project\HRSApplication\Common\obj\Debug\Common.dll
-E:\Project\HRSApplication\Common\obj\Debug\Common.pdb

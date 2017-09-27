@@ -1,5 +1,0 @@
-E:\Project\HRSApplication\Controller\bin\Debug\Controller.dll
-E:\Project\HRSApplication\Controller\bin\Debug\Controller.pdb
-E:\Project\HRSApplication\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
-E:\Project\HRSApplication\Controller\obj\Debug\Controller.dll
-E:\Project\HRSApplication\Controller\obj\Debug\Controller.pdb

@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\Controllers.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\Controllers.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\obj\Debug\Controllers.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\obj\Debug\Controllers.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\BusinessEntities.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\BusinessLayer.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\Common.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\BusinessEntities.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\BusinessLayer.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\bin\Debug\Common.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
